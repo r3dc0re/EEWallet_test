@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/person"
+    android:title="個人資料"
+    android:icon="@drawable/ew_person" />
+    <item android:id="@+id/spacehoider"
+        android:title=""/>
+    <item android:id="@+id/system"
+        android:title="系統設定"
+        android:icon="@drawable/ew_system" />
+
+
+</menu>
